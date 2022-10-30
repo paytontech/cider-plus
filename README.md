@@ -29,39 +29,8 @@
   <a href="https://circleci.com/gh/ciderapp/Cider/tree/main"><img src="https://circleci.com/gh/ciderapp/Cider/tree/main.svg?style=svg" alt="CircleCI Status"/></a>
 </p>
 
-#### Links
 
-* [Documentation](https://docs.cider.sh)
-* [Request Feature](https://github.com/ciderapp/Cider/discussions/new?category=feature-request)
-* [Report Bug](https://github.com/ciderapp/Cider/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D+)
-* [**View The Releases**](https://github.com/ciderapp/cider-releases/releases/latest)
 
-### Install Sources
-[![Get it from Github](https://img.shields.io/badge/Get_It_From_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ciderapp/cider-releases/releases/latest)
-
-[![Get it from the Microsoft Store](https://img.shields.io/badge/Get_It_From_The_Microsoft_Store-100000?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9P21XJ9D9G66)
-
-[![Get it from Windows Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Winget_-100000?style=for-the-badge&logo=winstall)](https://winstall.app/apps/CiderCollective.Cider)
-[![Get it from Windows Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Winget_(Nightly)_-100000?style=for-the-badge&logo=winstall)](https://winstall.app/apps/CiderCollective.Cider.Nightly)
-
-[![Get it from Chocolatey Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Chocolatey_-100000?style=for-the-badge&logo=chocolatey)](https://community.chocolatey.org/packages/cider)
-
-<!--
-[![Get it from Windows Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Winget_(Nightly)_-100000?style=for-the-badge&logo=winstall)](https://winstall.app/apps/CiderCollective.Cider.Nightly)
--->
-
-[![Get it from Flathub](https://img.shields.io/badge/Get_It_From_Flathub-100000?style=for-the-badge&logo=flathub)](https://flathub.org/apps/details/sh.cider.Cider)
-
-<!--
-
-[![Get it from Windows Package Manager](https://custom-icon-badges.herokuapp.com/badge/Get_It_via_Winget-100000?style=for-the-badge&logo=winstall)](https://winstall.app/apps/cryptofyre.AppleMusicElectron)
-
-[![Get it from the Snap Store](https://img.shields.io/badge/Get_It_From_The_Snap_Store-100000?style=for-the-badge&logo=snapcraft)](https://snapcraft.io/apple-music-electron)
--->
-[![Get it from the AUR](https://img.shields.io/badge/Get_It_From_The_AUR-100000?style=for-the-badge&logo=archlinux)](https://aur.archlinux.org/packages/cider)
-
-### Insights Snapshot
-[![CircleCI](https://dl.circleci.com/insights-snapshot/gh/ciderapp/Cider/main/build_and_release/badge.svg?window=30d)](https://app.circleci.com/insights/github/ciderapp/Cider/workflows/build_and_release/overview?branch=main&reporting-window=last-30-days&insights-snapshot=true)
 
 ### Credits
 ![Contributors](https://contrib.rocks/image?repo=ciderapp/Cider)
