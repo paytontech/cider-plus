@@ -1,3 +1,14 @@
+# Cider+
+## Cider+ is a fork of Cider which aims to fix a few bugs that I've noticed, and aims to implement most of the good requests in the #feature-request channel in the Cider Discord server: https://discord.gg/applemusic
+## TODO (in no order)
+- [ ] Fix bugs
+- [ ] [List all Audio Formats available (HackerMan#2368)](https://discord.com/channels/843954443845238864/1035993074821759087)
+- [ ] [Playlist - Sort by (Petersson#0423)](https://discord.com/channels/843954443845238864/1033456306406830080)
+- [ ] [Alexa (Sheep#5199)](https://discord.com/channels/843954443845238864/1029797910168207420)
+- [ ] [Repeat Button (TrendNet#0007)](https://discord.com/channels/843954443845238864/1033298853572644914) (i've also been wanting this feature! undoubtedly the first feature i'll be doing)
+- [ ] Reorder playlists in sidebar (not a feature request, I just really want this)
+
+<hr>
 <p align="center">
   <img src="./resources/banner.png" width="80%" height="60%" alt="Banner"><br>
   <b>A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance & visuals in mind. 🚀</b>
